@@ -10,6 +10,6 @@ cloud-fields: site.data.theme.subjects-fields
 
 ## Browse Subjects
 
-Use this word cloud visualization to browse object types.
+Use this word cloud visualization to browse object types or collection names.
 
 Word size is determined by frequency and terms link to a corresponding collection search.
