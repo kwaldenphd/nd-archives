@@ -42,7 +42,7 @@ locations-stopwords: # set of subjects separated by ; that will be removed from 
 ##########
 # TIMELINE PAGE
 #
-year-navigation: # set years to appear in dropdown nav, leave blank to auto gen
+year-navigation: 1845-2020 # set years to appear in dropdown nav, leave blank to auto gen
 year-nav-increment: 5 # set increments when auto gen nav years
 
 ##########
@@ -50,9 +50,9 @@ year-nav-increment: 5 # set increments when auto gen nav years
 #
 # add metadata fields for export in data downloads (tip: paste in first row of csv)
 # comma delimited list, reference url is automatic
-metadata-export-fields: "title, volume, creator, month/season, date, year, source, objectid, type, format"
+metadata-export-fields: "title, volume, creator, month/season, date_exact, year, source, objectid, type, format, collection"
 # generate a facets list for given fields, comma delimited
-metadata-facets-fields: "year; volume; month/season; type; format; creator"
+metadata-facets-fields: "year; volume; date_exact; type; collection; creator"
 
 ##########
 # ADVANCED OPTIONS
