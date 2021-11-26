@@ -2,8 +2,9 @@ field,display_name,btn,hidden,sort_name
 title,Title,,true,Title
 volume,Volume,,true
 creator,Creator,,true
-month/season,Month/Season,,true,Month/Season
-date,Date,,true,Date
+month/season,Month/Season,true,Month/Season
+date_exact,Date,,true,Date
 year,Year,,,Year
 type,Type,,true,Type
-format,Format,,true,Format
+collection,Collection,true,,Collection
+format,Format,true,,Format
