@@ -4,7 +4,7 @@ volume,Volume,,
 creator,Creator,,
 month/season,Month/Season,,
 date_exact,Date,,
-year,Year,,
+date,Year,,
 source,Source,,TRUE
 objectid,ObjectID,,
 type,Type,,
