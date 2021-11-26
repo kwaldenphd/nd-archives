@@ -3,6 +3,6 @@ title,true,true
 volume,true,true
 date,true,true
 year,true,true
-date,true,true
+date_exact,true,true
 month/season,true,true
 creator,true,false
