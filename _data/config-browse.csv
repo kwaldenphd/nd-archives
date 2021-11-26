@@ -1,6 +1,6 @@
 field,display_name,btn,hidden,sort_name
-title, Title,,,Title
-volume,,,true,,
+title,Title,,,Title
+volume,Volume,true,
 creator,Creator,,,
 month/season,Month/Season,,true,Month/Season
 date,Date,,true,Date
