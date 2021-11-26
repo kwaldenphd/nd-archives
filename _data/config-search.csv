@@ -6,3 +6,5 @@ year,true,true
 date_exact,true,true
 month/season,true,true
 creator,true,false
+type,true,true
+collection,true,true
