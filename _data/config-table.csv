@@ -1,5 +1,7 @@
 field,display_name
 title,Title
+year,Year
 date,Date
-description,Description
-subject,Subjects
+month/season,Month/Season
+type,Type
+creator,Creator
