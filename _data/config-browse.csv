@@ -4,6 +4,6 @@ volume,Volume,,,true
 creator,Creator,,,true
 month/season,Month/Season,,true,Month/Season
 date_exact,Date,,true,Date
-year,Year,,,Year
+date,Year,,,Year
 type,Type,,true,Type
 collection,Collection,true,,Collection
