@@ -7,4 +7,3 @@ date_exact,Date,,true,Date
 year,Year,,,Year
 type,Type,,true,Type
 collection,Collection,true,,Collection
-format,Format,true,,Format
