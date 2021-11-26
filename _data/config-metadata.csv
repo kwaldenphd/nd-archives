@@ -3,7 +3,7 @@ title,Title,,
 volume,Volume,,
 creator,Creator,,
 month/season,Month/Season,,
-date,Date,,
+date_exact,Date,,
 year,Year,,
 source,Source,,TRUE
 objectid,ObjectID,,
