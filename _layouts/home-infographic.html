@@ -2,16 +2,16 @@
 layout: page
 ---
 <div>
-{%- assign items = site.data[site.metadata] -%}
-{% include index/description.html %}
-{% include index/carousel.html title="Sample Materials" %}
+  {%- assign items = site.data[site.metadata] -%}
+  {% include index/description.html %}
+  {% include index/carousel.html title="Sample Materials" %}
 </div>
 <div class="container">
 <div class="row">
 <div class="col-sm">
-{% include index/time.html %}
+  {% include index/time.html %}
 </div>
-<div class="col-sm"
+<div class="col-sm">
 {% include index/objects.html %}
 </div>
 <div class="col-sm">
